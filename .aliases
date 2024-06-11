@@ -11,7 +11,7 @@ alias k=kubectl
 
 # mask built-ins with better defaults
 alias vi=vim
-alias code=vscodium
+alias code=codium
 
 # more ways to ls
 alias ll='ls -lh'
