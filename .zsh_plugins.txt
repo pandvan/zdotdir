@@ -49,7 +49,7 @@ mattmc3/zephyr path:plugins/completion
 # assume GitHub.com, then you can use the user/repo shorthand.
 #
 ###
-https://github.com/peterhurford/up.zsh
+peterhurford/up.zsh
 rummik/zsh-tailf
 mattmc3/zman
 agkozak/zsh-z
@@ -99,10 +99,10 @@ $ZDOTDIR/.aliases
 ###
 
 # Use kind:fpath for prompts you want available to promptinit.
-romkatv/powerlevel10k kind:fpath
+romkatv/powerlevel10k
 
 # Or, just load a prompt plugin the normal way.
-sindresorhus/pure
+# sindresorhus/pure
 
 
 ### Utilities
@@ -113,7 +113,7 @@ sindresorhus/pure
 # bundles can often be made available simply with the `kind:path` annotation.
 #
 ###
-romkatv/zsh-bench kind:path
+# romkatv/zsh-bench kind:path
 
 
 ### Frameworks
@@ -147,7 +147,7 @@ ohmyzsh/ohmyzsh path:plugins/copyfile
 ohmyzsh/ohmyzsh path:plugins/copypath
 ohmyzsh/ohmyzsh path:plugins/extract
 ohmyzsh/ohmyzsh path:plugins/magic-enter
-ohmyzsh/ohmyzsh path:plugins/fancy-ctrl-z
+# ohmyzsh/ohmyzsh path:plugins/fancy-ctrl-z
 
 
 ### Framework: Prezto

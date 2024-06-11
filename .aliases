@@ -7,9 +7,11 @@
 alias _=sudo
 alias l=ls
 alias g=git
+alias k=kubectl
 
 # mask built-ins with better defaults
 alias vi=vim
+alias code=vscodium
 
 # more ways to ls
 alias ll='ls -lh'

@@ -15,9 +15,9 @@ fi
 # Editors
 #
 
-export EDITOR="${EDITOR:-vim}"
-export VISUAL="${VISUAL:-vim}"
-export PAGER="${PAGER:-less}"
+export EDITOR="${EDITOR:-nano}"
+export VISUAL="${VISUAL:-nano}"
+export PAGER="${PAGER:-bat}"
 
 #
 # Paths
