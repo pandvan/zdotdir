@@ -18,6 +18,7 @@ peterhurford/up.zsh
 rummik/zsh-tailf
 mattmc3/zman
 agkozak/zsh-z
+z-shell/zsh-eza
 
 
 ### Local Plugins
@@ -56,4 +57,4 @@ zdharma-continuum/fast-syntax-highlighting kind:defer
 
 ### Final Plugins
 zsh-users/zsh-autosuggestions
-zsh-users/zsh-history-substring-search
+# zsh-users/zsh-history-substring-search
