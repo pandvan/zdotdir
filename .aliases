@@ -12,6 +12,7 @@ alias k=kubectl
 # mask built-ins with better defaults
 alias vi=vim
 alias code=codium
+alias task=go-task
 
 # more ways to ls
 alias ll='ls -lh'
