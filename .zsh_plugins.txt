@@ -10,7 +10,8 @@
 ###
 
 ### Completions
-mattmc3/zephyr path:plugins/completion
+zsh-users/zsh-completions path:src kind:fpath
+mattmc3/ez-compinit
 
 
 ### Regular Plugins
@@ -37,6 +38,7 @@ romkatv/powerlevel10k
 ### Frameworks
 
 ### Framework: Oh-My-Zsh
+getantidote/use-omz
 ohmyzsh/ohmyzsh path:lib/clipboard.zsh
 ohmyzsh/ohmyzsh path:plugins/copybuffer
 ohmyzsh/ohmyzsh path:plugins/copyfile
@@ -57,4 +59,4 @@ zdharma-continuum/fast-syntax-highlighting kind:defer
 
 ### Final Plugins
 zsh-users/zsh-autosuggestions
-# zsh-users/zsh-history-substring-search
+zsh-users/zsh-history-substring-search
